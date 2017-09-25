@@ -1,0 +1,24 @@
+{
+  "name": "ReactProj",
+  "version": "1.0.0",
+  "description": "* Feedback project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amgoodman5/ReactProj.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amgoodman5/ReactProj/issues"
+  },
+  "homepage": "https://github.com/amgoodman5/ReactProj#readme",
+  "dependencies": {
+    "babel-preset-env": "1.5.2",
+    "babel-preset-react": "6.24.1"
+  }
+}
